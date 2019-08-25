@@ -82,3 +82,9 @@ html,body {
 .item20 {
   border-radius: 0 0 10px 0;
 }
+
+.intro {
+  margin-top: 80px;
+  text-align: center!important;
+  color:black!important;
+}
